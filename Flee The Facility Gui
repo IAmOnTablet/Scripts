@@ -1,9 +1,9 @@
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Flee that retarded facility pls",
+   Name = "Flee that stupid ahh facility pls",
    LoadingTitle = "please dont ban me",
-   LoadingSubtitle = "sub to raisincains",
+   LoadingSubtitle = "sub to iamontablet",
    ConfigurationSaving = {
       Enabled = false,
       FolderName = nil, -- Create a custom folder for your hub/game
